@@ -1,0 +1,60 @@
+body{
+  margin: 0 auto;
+  font-family: Inter;
+}
+.cabecalho{
+  background: #191919;
+  padding: 40px;
+}
+.cabecalho__titulo{
+  color:#FFFFFF;
+  font-weight: 700;
+  font-size: 40px;
+  margin: 0;
+}
+
+.login{
+  padding: 40px;
+}
+
+.login__titulo{
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.form__campo{
+  margin-bottom: 10px;
+}
+.form__text{
+  margin-bottom: 12px;
+  font-weight: 400;
+  font-size: 16px;
+  padding: 3px;
+}
+.form__entrada{
+  padding: 5px;
+  border: 2px solid #5C8CFF;
+  border-radius: 3px;
+}
+
+.botao{
+  font-weight: 700;
+  font-size: 16px;
+  background-color: #FFD702;
+  border: 2px solid #FF9F2E;
+  border-radius: 3px;
+  padding: 6px;
+  cursor: pointer;
+}
+
+.rodape{
+  background: #5C8CFF;
+  padding: 40px;
+}
+
+.rodape__texto{
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #FFFFFF;
+}

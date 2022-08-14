@@ -1,0 +1,101 @@
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+}
+
+.cabecalho {
+  background-color: #2f117f;
+  padding: 20px;
+}
+
+.titulo1 {
+  margin-top: 0px;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.menu {
+  background-color: #6126ff;
+  width: 100px;
+}
+
+.menu-itens {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-item {
+  padding: 10px;
+  
+}
+
+.menu-link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.titulo2 {
+  margin-top: 0px;
+  font-weight: 900;
+  font-size: 30px;
+}
+
+.formulario{
+  padding: 20px;
+}
+
+.paragrafo {
+  font-size: 16px;
+}
+.entrada {
+  font-size: 14px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #6126ff;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.form-item {
+  margin-bottom: 20px;
+}
+
+.categoria {
+  color: #6126ff;
+}
+
+.envio {
+  margin-bottom: 20px;
+}
+
+.botao {
+  font-weight: 700;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 5px;
+  border-width: 0;
+  cursor: pointer;
+}
+.tipo1 {
+  color: #f1d703;
+  background-color: #6126ff;
+}
+
+.tipo2 {
+  background-color: #f1d703;
+  color: #6126ff;
+}
+
+.rodape {
+  background-color: #6126ff;
+  padding: 20px;
+}
+
+.rodape-texto {
+  font-size: 12px;
+  color: #ffffff;
+}

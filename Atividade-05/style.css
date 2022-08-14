@@ -1,0 +1,34 @@
+body {
+  background-color: #bebebe;
+}
+
+.inicio {
+    width: 50%;
+    height: 500px;
+    background-color: #ADD8E6;
+}
+
+.inicioTitulo{
+    font-size: 30px;
+    color: #FA8072;
+
+}
+.parag {
+  font-size: 20px;
+  color: #f0ffff;
+}
+
+.texto{
+width: 25%;
+height: 200px;
+background-color: #FFC0CB;
+}
+
+.tituloTexto{
+font-size:20px;
+color: #FFA500;
+}
+.paragTexto{
+    font-size: 15px;
+    color: #000080;
+}

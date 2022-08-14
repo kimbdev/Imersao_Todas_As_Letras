@@ -1,0 +1,37 @@
+body {
+  background-image: url(../images/oceano.jpg);
+  background-repeat: repeat-x repeat-y;
+  
+}
+
+.p1 {
+  background-image: url(../images/p1.png);
+  background-size: cover;
+  width: 700px;
+  height: 500px;
+  margin: 30px;
+  padding: 50px;
+}
+
+.p2{
+  background-image: url(../images/p2.png);
+  background-size: cover;
+  width: 700px;
+  height: 500px;
+  margin: 30px;
+  padding: 50px;
+}
+
+.titulo{
+  font-size: 40px;
+  color: #dabfbf;
+}
+
+.texto{
+  color: #ccc;
+  font-size: 28px;
+}
+
+.instagram{
+  background-image: linear-gradient(#fd5949, #d6249f, #285AEB);
+}

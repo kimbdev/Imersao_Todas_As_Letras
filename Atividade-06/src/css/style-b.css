@@ -1,0 +1,30 @@
+body {
+  background-image: linear-gradient(to right, #f1e7f7, #dceed6, #c0b8c5);
+}
+
+.instagram {
+  width: 500px;
+  height: 500px;
+  margin: 30px;
+  padding: 50px;
+  background-image: radial-gradient(#d6249f, #285aeb);
+}
+.facebook {
+  width: 500px;
+  height: 500px;
+  margin: 30px;
+  padding: 50px;
+  background-image: radial-gradient(#2B4170,#223459);
+}
+
+.titulo {
+  color: #fff;
+  font-size: 70px;
+  text-align: center;
+}
+
+.texto {
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}

@@ -1,0 +1,100 @@
+body {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+.cabecalho {
+  background: #2d0064;
+  padding: 40px;
+}
+
+.cabecalho_titulo {
+  margin-top: 0px;
+  color: #ffffff;
+}
+
+/* .menu {
+  margin-bottom: 38px;
+} */
+
+.menu_lista {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu_itens {
+  list-style: none;
+}
+
+.menu_link {
+  text-decoration: none;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.conteudo {
+  display: flex;
+  column-gap: 40px;
+  background: #f3f3f3;
+  padding: 40px;
+}
+
+.principal {
+  background: #ffffff;
+  /* margin: 40px; */
+}
+
+.principal_secao {
+  padding: 40px;
+}
+.artigo {
+  margin-bottom: 40px;
+}
+
+.titulo_texto {
+  margin-top: 0;
+  font-size: 25px;
+}
+
+.texto {
+  margin-top: 0px;
+  font-weight: 400;
+  font-size: 16px;
+}
+.lateral {
+  /* margin: 40px; */
+  background: #ffffff;
+  width: 254px;
+}
+
+.secao_lateral {
+  margin: 40px;
+}
+
+.secao_titulo {
+  font-size: 20px;
+}
+
+.titulo_lateral {
+  font-size: 16px;
+}
+
+.texto_lateral {
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.rodape {
+  background: #4d03a8;
+  padding: 40px;
+}
+
+.rodape_texto {
+  font-weight: 400;
+  font-size: 12px;
+  color: #ffffff;
+}
